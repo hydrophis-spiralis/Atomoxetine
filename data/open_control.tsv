@@ -1,0 +1,12 @@
+sex	group	center time	sum corner time	min one corner time	max one corner time	average corner time	wall time	overall track length	center path	sum corner path	min one corner path	max one corner path	average corner path	wall path	overall velocity	center velocity	max corner velocity	min corner velocity	average corner velocity	wall velocity	overall activity	center activity	min one corner activity	max one corner activity	wall activity
+male	control	32.5	168.2	24.2	56.1	42.1	111.9	3771.5	731.1	1119	194.8	344.5	279.8	1921.2	12.1	22.5	9.3	4.9	7	17.2	57.6	84.6	32.8	50.8	74.8
+male	control	56.9	127.5	15.1	43.7	32.9	121.3	4463.7	1085.3	1254.9	190	503.5	313.7	2123.5	14.6	19.1	12.6	7.8	10.1	17.5	68.3	83	49.1	69.4	75.9
+male	control	59	125.1	15.4	57.2	36.3	115.1	2807.6	862.9	572.3	49.8	228.2	143.1	1372.5	9.3	14.9	7.9	4.4	6	13.9	48.9	67.2	32.2	40.9	65.1
+male	control	48.1	112.6	18.7	47.1	28.2	139.6	3828.1	841.4	1139.2	167.4	469.2	284.8	1847.5	12.7	17.5	17.5	6.7	10.6	13.2	62.6	75.3	44.6	61.4	66.3
+female	control	23.1	180.4	34.1	59.5	45.1	117	4658.8	743.4	1156.3	227.7	345.4	289.1	2759.1	14.5	32.2	10.1	4.6	7.1	23.6	57.7	96	31.7	49.8	81.6
+female	control	52.2	130.7	20.2	61.3	32.7	146	4479.2	1350	828.6	152.2	245.4	207.2	27	13.6	25.9	9.1	4	7.2	15.8	60.1	95.8	26	53.3	67.1
+female	control	20.3	199.8	16	75.6	50	105.6	2859.3	409.3	714.7	113.5	251.8	178.7	1735.4	8.8	20.1	7.1	2.8	4.6	16.4	45.6	91.1	19.3	50.9	74.3
+female	control	27.4	169.5	31.2	71.1	42.4	115.7	3239.6	661.6	749.1	142.9	271.3	187.3	1828.8	10.4	24.1	5.5	3.8	4.6	15.8	51	88.1	28.9	36.3	71
+male	control	20.3	197	26.5	76.9	49.3	108.5	2979.5	318.4	1054.8	167.2	342.8	263.7	1606.3	9.1	15.6	8.2	4.5	5.9	14.8	53.1	86.8	30	45.8	78.2
+male	control	35.9	187.1	13	102.4	46.8	106.5	2548.9	597.4	808.9	86.7	420.4	202.2	1142.5	7.7	16.6	6.7	4.1	4.8	10.7	42.7	82	21.2	48	57.1
+male	control	17.1	222.9	27.6	108.1	55.7	89.6	2293.3	237.4	866.5	135.4	378.7	216.6	1189.4	7	13.8	7	2	4.5	13.3	40	79	16.5	36.8	68.5
